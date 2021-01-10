@@ -1,5 +1,5 @@
 Οδηγίες εγκατάστασης 
-1.	Άνοιγμα github link στο κάτω μέρος της έκθεσης και download το αρχείο DBproject44.rar
+1.	Download το αρχείο DBproject44.rar
 2.	Αποσυμπίεση του
 3.	Εγκατάσταση Xampp
 4.	 Εγκατάσταση VS Code
